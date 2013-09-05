@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestDocument>
+<Unit>
+<id>1</id>
+<Source>Одноклассники</Source>
+<Target>Одноклассники</Target>
+</Unit>
+<Unit>
+<id>2</id>
+<Source>Odnoklassniki</Source>
+<Target>Odnoklassniki</Target>
+</Unit>
+<Unit>
+<id>3</id>
+<Source>Логин</Source>
+<Target>Логин</Target>
+</Unit>
+<Unit>
+<id>4</id>
+<Source>Пароль</Source>
+<Target>Пароль</Target>
+</Unit>
+<Unit>
+<id>5</id>
+<Source>Войти</Source>
+<Target>Войти</Target>
+</Unit>
+<Unit>
+<id>6</id>
+<Source>Показывать пароль</Source>
+<Target>Показывать пароль</Target>
+</Unit>
+<Unit>
+<id>7</id>
+<Source>Ошибка</Source>
+<Target>Ошибка</Target>
+</Unit>
+<Unit>
+<id>8</id>
+<Source>Данная композиция заблокирована по инициативе правообладателя</Source>
+<Target>Данная композиция заблокирована по инициативе правообладателя</Target>
+</Unit>
+<Unit>
+<id>9</id>
+<Source>Регистрация</Source>
+<Target>Регистрация</Target>
+</Unit>
+<Unit>
+<id>10</id>
+<Source>Неверный логин или пароль.</Source>
+<Target>Неверный логин или пароль.</Target>
+</Unit>
+<Unit>
+<id>11</id>
+<Source>Пользователь заблокирован или удалён.</Source>
+<Target>Пользователь заблокирован или удалён.</Target>
+</Unit>
+<Unit>
+<id>12</id>
+<Source>Не оповещать</Source>
+<Target>Не оповещать</Target>
+</Unit>
+<Unit>
+<id>13</id>
+<Source>Без сигнала</Source>
+<Target>Без сигнала</Target>
+</Unit>
+<Unit>
+<id>14</id>
+<Source>Звук</Source>
+<Target>Звук</Target>
+</Unit>
+<Unit>
+<id>15</id>
+<Source>Вибрация</Source>
+<Target>Вибрация</Target>
+</Unit>
+<Unit>
+<id>16</id>
+<Source>Звук и вибрация</Source>
+<Target>Звук и вибрация</Target>
+</Unit>
+<Unit>
+<id>17</id>
+<Source>Галерея</Source>
+<Target>Галерея</Target>
+</Unit>
+<Unit>
+<id>18</id>
+<Source>Камера</Source>
+<Target>Камера</Target>
+</Unit>
+<Unit>
+<id>19</id>
+<Source>Отменить</Source>
+<Target>Отменить</Target>
+</Unit>
+<Unit>
+<id>20</id>
+<Source>Введённый статус содержит запрещённые слова</Source>
+<Target>Введённый статус содержит запрещённые слова</Target>
+</Unit>
+<Unit>
+<id>21</id>
+<Source>Не удалось установить статус. Попробуйте позже.</Source>
+<Target>Не удалось установить статус. Попробуйте позже.</Target>
+</Unit>
+<Unit>
+<id>22</id>
+<Source>Введенный комментарий содержит запрещённые слова</Source>
+<Target>Введенный комментарий содержит запрещённые слова</Target>
+</Unit>
+<Unit>
+<id>23</id>
+<Source>/apphook/uploadPhoto</Source>
+<Target>/apphook/uploadPhoto</Target>
+</Unit>
+<Unit>
+<id>24</id>
+<Source>Фотография загружается...</Source>
+<Target>Фотография загружается...</Target>
+</Unit>
+<Unit>
+<id>25</id>
+<Source>Фотография загружена</Source>
+<Target>Фотография загружена</Target>
+</Unit>
+<Unit>
+<id>26</id>
+<Source>Загрузить фото не удалось</Source>
+<Target>Загрузить фото не удалось</Target>
+</Unit>
+<Unit>
+<id>27</id>
+<Source>Ошибка получения фото</Source>
+<Target>Ошибка получения фото</Target>
+</Unit>
+<Unit>
+<id>28</id>
+<Source>Ошибка загрузки фотографии. Повторить загрузку?</Source>
+<Target>Ошибка загрузки фотографии. Повторить загрузку?</Target>
+</Unit>
+<Unit>
+<id>29</id>
+<Source>Вы поделились ссылкой с друзьями</Source>
+<Target>Вы поделились ссылкой с друзьями</Target>
+</Unit>
+<Unit>
+<id>30</id>
+<Source>Посмотреть</Source>
+<Target>Посмотреть</Target>
+</Unit>
+<Unit>
+<id>31</id>
+<Source>Обновить</Source>
+<Target>Обновить</Target>
+</Unit>
+<Unit>
+<id>32</id>
+<Source>Остановить</Source>
+<Target>Остановить</Target>
+</Unit>
+<Unit>
+<id>33</id>
+<Source>Настройки</Source>
+<Target>Настройки</Target>
+</Unit>
+<Unit>
+<id>34</id>
+<Source>Оповещение</Source>
+<Target>Оповещение</Target>
+</Unit>
+<Unit>
+<id>35</id>
+<Source>Сообщение</Source>
+<Target>Сообщение</Target>
+</Unit>
+<Unit>
+<id>36</id>
+<Source>/apphook/makeCall</Source>
+<Target>/apphook/makeCall</Target>
+</Unit>
+<Unit>
+<id>37</id>
+<Source>Ответить</Source>
+<Target>Ответить</Target>
+</Unit>
+<Unit>
+<id>38</id>
+<Source>Отклонить</Source>
+<Target>Отклонить</Target>
+</Unit>
+<Unit>
+<id>39</id>
+<Source>Закончить</Source>
+<Target>Закончить</Target>
+</Unit>
+<Unit>
+<id>40</id>
+<Source>Связь оборвалась</Source>
+<Target>Связь оборвалась</Target>
+</Unit>
+<Unit>
+<id>41</id>
+<Source>Собеседник отключился от сети</Source>
+<Target>Собеседник отключился от сети</Target>
+</Unit>
+<Unit>
+<id>42</id>
+<Source>Не удалось совершить звонок</Source>
+<Target>Не удалось совершить звонок</Target>
+</Unit>
+<Unit>
+<id>43</id>
+<Source>Повторить</Source>
+<Target>Повторить</Target>
+</Unit>
+<Unit>
+<id>44</id>
+<Source>Не удается подключиться к серверу. Возможно, на вашем устройстве отсутствует
+        подключение к интернету.</Source>
+<Target>Не удается подключиться к серверу. Возможно, на вашем устройстве отсутствует
+        подключение к интернету.</Target>
+</Unit>
+<Unit>
+<id>45</id>
+<Source>Сервис временно недоступен. Попробуйте позже.</Source>
+<Target>Сервис временно недоступен. Попробуйте позже.</Target>
+</Unit>
+<Unit>
+<id>46</id>
+<Source>Изображение</Source>
+<Target>Изображение</Target>
+</Unit>
+<Unit>
+<id>47</id>
+<Source>Отмечать обсуждения как прочитанные можно вручную или автоматически. Выбрать
+        способ сброса обсуждений вы можете в Настройках приложения.
+    </Source>
+<Target>Отмечать обсуждения как прочитанные можно вручную или автоматически. Выбрать
+        способ сброса обсуждений вы можете в Настройках приложения.
+    </Target>
+</Unit>
+</TestDocument>

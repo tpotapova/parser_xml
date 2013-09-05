@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_ru">Одноклассники</string>
+    <string name="app_name">Odnoklassniki</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="showPassword">Показывать пароль</string>
+
+    <string name="error">Ошибка</string>
+    <string name="cpr_error">Данная композиция заблокирована по инициативе правообладателя</string>
+    <string name="registration">Регистрация</string>
+    <string name="loginError">Неверный логин или пароль.</string>
+    <string name="userError">Пользователь заблокирован или удалён.</string>
+
+    <!--<string name="startLogoutUrl2">http://m.ok.ru/dk?st.cmd=logoff&st.ret</string>-->
+    <string-array name="notificationtypes">
+        <item>Не оповещать</item>
+        <item>Без сигнала</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Звук и вибрация</item>
+    </string-array>
+
+   <string-array name="photochoosertypes">
+        <item>Галерея</item>
+        <item>Камера</item>
+        <item>Отменить</item>
+    </string-array>
+
+    <string name="forbiddenStatusTextError">Введённый статус содержит запрещённые слова</string>
+    <string name="tryLaterStatusError">Не удалось установить статус. Попробуйте позже.</string>
+    <string name="forbiddenLinkTextError">Введенный комментарий содержит запрещённые слова</string>
+
+    <string name="uploadImageUrl">/apphook/uploadPhoto</string>
+
+    <string name="uploading">Фотография загружается...</string>
+    <string name="uploaded">Фотография загружена</string>
+    <string name="uploadFailure">Загрузить фото не удалось</string>
+    <string name="getPhotoError">Ошибка получения фото</string>
+    <string name="getPhotoErrorRepeat">Ошибка загрузки фотографии. Повторить загрузку?</string>
+
+
+    <string name="sharedLink">Вы поделились ссылкой с друзьями</string>
+    <string name="show">Посмотреть</string>
+
+    <string name="refresh">Обновить</string>
+    <string name="stop">Остановить</string>
+    <string name="settings">Настройки</string>
+
+    <!--<string name="webServerUrl">http://m.ok.ru/</string>-->
+
+    <string name="testWebServerUrl"></string>
+
+    <string name="notification">Оповещение</string>
+    <string name="notification_message">Сообщение</string>
+    <string name="makeCallUrl">/apphook/makeCall</string>
+    <string name="answer">Ответить</string>
+    <string name="reject">Отклонить</string>
+    <string name="drop">Закончить</string>
+    <string name="callDisconnected">Связь оборвалась</string>
+    <string name="remoteDropped">Собеседник отключился от сети</string>
+    <string name="callFailed">Не удалось совершить звонок</string>
+    
+    <string name="repeat">Повторить</string>
+    <string name="http_load_error">Не удается подключиться к серверу. Возможно, на вашем устройстве отсутствует
+        подключение к интернету.</string>
+    <string name="server_load_error">Сервис временно недоступен. Попробуйте позже.</string>
+    <string name="image_dialog_text_header">Изображение</string>
+    
+    <string name="message_check_text_info">Отмечать обсуждения как прочитанные можно вручную или автоматически. Выбрать
+        способ сброса обсуждений вы можете в Настройках приложения.
+    </string>
+</resources>

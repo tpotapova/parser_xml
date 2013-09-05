@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestDocument>
+<Unit>
+<id>1</id>
+<Source>Введите логин</Source>
+<Target>Введите логин</Target>
+</Unit>
+<Unit>
+<id>2</id>
+<Source>Введите пароль</Source>
+<Target>Введите пароль</Target>
+</Unit>
+<Unit>
+<id>3</id>
+<Source>Вправо</Source>
+<Target>Вправо</Target>
+</Unit>
+<Unit>
+<id>4</id>
+<Source>Влево</Source>
+<Target>Влево</Target>
+</Unit>
+<Unit>
+<id>5</id>
+<Source>Камера</Source>
+<Target>Камера</Target>
+</Unit>
+<Unit>
+<id>6</id>
+<Source>Время сессии истекло</Source>
+<Target>Время сессии истекло</Target>
+</Unit>
+<Unit>
+<id>7</id>
+<Source>Вход</Source>
+<Target>Вход</Target>
+</Unit>
+<Unit>
+<id>8</id>
+<Source>Выход</Source>
+<Target>Выход</Target>
+</Unit>
+<Unit>
+<id>9</id>
+<Source>\n\n\nЗагрузка...%@</Source>
+<Target>\n\n\nЗагрузка...%@</Target>
+</Unit>
+<Unit>
+<id>10</id>
+<Source>\n\n\nЗагрузка...</Source>
+<Target>\n\n\nЗагрузка...</Target>
+</Unit>
+<Unit>
+<id>11</id>
+<Source>Загрузка...</Source>
+<Target>Загрузка...</Target>
+</Unit>
+<Unit>
+<id>12</id>
+<Source>Ошибка</Source>
+<Target>Ошибка</Target>
+</Unit>
+<Unit>
+<id>13</id>
+<Source>Перейти на главную</Source>
+<Target>Перейти на главную</Target>
+</Unit>
+<Unit>
+<id>14</id>
+<Source>Попробовать ещё раз</Source>
+<Target>Попробовать ещё раз</Target>
+</Unit>
+<Unit>
+<id>15</id>
+<Source>Некорректный ответ сервера</Source>
+<Target>Некорректный ответ сервера</Target>
+</Unit>
+<Unit>
+<id>16</id>
+<Source>Нет соединения с сервером.</Source>
+<Target>Нет соединения с сервером.</Target>
+</Unit>
+<Unit>
+<id>17</id>
+<Source>Нет подключения к интернету.</Source>
+<Target>Нет подключения к интернету.</Target>
+</Unit>
+<Unit>
+<id>18</id>
+<Source>Сервис временно недоступен. Пожалуйста, попробуйте зайти позже.</Source>
+<Target>Сервис временно недоступен. Пожалуйста, попробуйте зайти позже.</Target>
+</Unit>
+<Unit>
+<id>19</id>
+<Source>Неверный логин или пароль, или ваш профиль временно заблокирован.</Source>
+<Target>Неверный логин или пароль, или ваш профиль временно заблокирован.</Target>
+</Unit>
+<Unit>
+<id>20</id>
+<Source>Загрузка прервана</Source>
+<Target>Загрузка прервана</Target>
+</Unit>
+<Unit>
+<id>21</id>
+<Source>Сохранить изображение</Source>
+<Target>Сохранить изображение</Target>
+</Unit>
+<Unit>
+<id>22</id>
+<Source>Не удалось сохранить изображение</Source>
+<Target>Не удалось сохранить изображение</Target>
+</Unit>
+<Unit>
+<id>23</id>
+<Source>Закончить</Source>
+<Target>Закончить</Target>
+</Unit>
+<Unit>
+<id>24</id>
+<Source>Отклонить</Source>
+<Target>Отклонить</Target>
+</Unit>
+<Unit>
+<id>25</id>
+<Source>Звонок окончен</Source>
+<Target>Звонок окончен</Target>
+</Unit>
+<Unit>
+<id>26</id>
+<Source>Связь оборвалась</Source>
+<Target>Связь оборвалась</Target>
+</Unit>
+<Unit>
+<id>27</id>
+<Source>Не удалось позвонить</Source>
+<Target>Не удалось позвонить</Target>
+</Unit>
+<Unit>
+<id>28</id>
+<Source>Собеседник занят</Source>
+<Target>Собеседник занят</Target>
+</Unit>
+<Unit>
+<id>29</id>
+<Source>Собеседник положил трубку</Source>
+<Target>Собеседник положил трубку</Target>
+</Unit>
+<Unit>
+<id>30</id>
+<Source>Собеседник положил трубку</Source>
+<Target>Собеседник положил трубку</Target>
+</Unit>
+<Unit>
+<id>31</id>
+<Source>Гости Oценки</Source>
+<Target>Гости Oценки</Target>
+</Unit>
+<Unit>
+<id>32</id>
+<Source>Нет соединения с интернетом.</Source>
+<Target>Нет соединения с интернетом.</Target>
+</Unit>
+<Unit>
+<id>33</id>
+<Source>Пытаемся соединиться...</Source>
+<Target>Пытаемся соединиться...</Target>
+</Unit>
+<Unit>
+<id>34</id>
+<Source>Соединиться</Source>
+<Target>Соединиться</Target>
+</Unit>
+<Unit>
+<id>35</id>
+<Source>не доставлено</Source>
+<Target>не доставлено</Target>
+</Unit>
+<Unit>
+<id>36</id>
+<Source>доставлено</Source>
+<Target>доставлено</Target>
+</Unit>
+<Unit>
+<id>37</id>
+<Source>Сообщение не было отправлено.</Source>
+<Target>Сообщение не было отправлено.</Target>
+</Unit>
+<Unit>
+<id>38</id>
+<Source>Отправить ещё раз</Source>
+<Target>Отправить ещё раз</Target>
+</Unit>
+<Unit>
+<id>39</id>
+<Source>Обновление...</Source>
+<Target>Обновление...</Target>
+</Unit>
+<Unit>
+<id>40</id>
+<Source>Сообщений больше нет</Source>
+<Target>Сообщений больше нет</Target>
+</Unit>
+<Unit>
+<id>41</id>
+<Source>С этим пользователем вы ещё <br />не переписывались</Source>
+<Target>С этим пользователем вы ещё <br />не переписывались</Target>
+</Unit>
+<Unit>
+<id>42</id>
+<Source>Удалить всю переписку с пользователем</Source>
+<Target>Удалить всю переписку с пользователем</Target>
+</Unit>
+<Unit>
+<id>43</id>
+<Source>Удалить переписку</Source>
+<Target>Удалить переписку</Target>
+</Unit>
+<Unit>
+<id>44</id>
+<Source>Не получилось удалить переписку</Source>
+<Target>Не получилось удалить переписку</Target>
+</Unit>
+<Unit>
+<id>45</id>
+<Source>Удалить</Source>
+<Target>Удалить</Target>
+</Unit>
+<Unit>
+<id>46</id>
+<Source>Открыть</Source>
+<Target>Открыть</Target>
+</Unit>
+<Unit>
+<id>47</id>
+<Source>Отметить как спам</Source>
+<Target>Отметить как спам</Target>
+</Unit>
+<Unit>
+<id>48</id>
+<Source>Сохранить изображение</Source>
+<Target>Сохранить изображение</Target>
+</Unit>
+<Unit>
+<id>49</id>
+<Source>Открыть в Safari</Source>
+<Target>Открыть в Safari</Target>
+</Unit>
+<Unit>
+<id>50</id>
+<Source>Копировать ссылку</Source>
+<Target>Копировать ссылку</Target>
+</Unit>
+<Unit>
+<id>51</id>
+<Source>Произошла ошибка соединения. Повторить ещё раз?</Source>
+<Target>Произошла ошибка соединения. Повторить ещё раз?</Target>
+</Unit>
+<Unit>
+<id>52</id>
+<Source>Радио</Source>
+<Target>Радио</Target>
+</Unit>
+<Unit>
+<id>53</id>
+<Source>Слушать радио</Source>
+<Target>Слушать радио</Target>
+</Unit>
+<Unit>
+<id>54</id>
+<Source>Слушать альбом</Source>
+<Target>Слушать альбом</Target>
+</Unit>
+<Unit>
+<id>55</id>
+<Source>радио</Source>
+<Target>радио</Target>
+</Unit>
+<Unit>
+<id>56</id>
+<Source>Похожее на</Source>
+<Target>Похожее на</Target>
+</Unit>
+<Unit>
+<id>57</id>
+<Source>Похожие песни</Source>
+<Target>Похожие песни</Target>
+</Unit>
+<Unit>
+<id>58</id>
+<Source>Временные технические работы на музыкальном сервисе</Source>
+<Target>Временные технические работы на музыкальном сервисе</Target>
+</Unit>
+<Unit>
+<id>59</id>
+<Source>Вы ещё не активировали свой профиль, поэтому вы пока не можете слушать музыку.</Source>
+<Target>Вы ещё не активировали свой профиль, поэтому вы пока не можете слушать музыку.</Target>
+</Unit>
+<Unit>
+<id>60</id>
+<Source>Редактировать?</Source>
+<Target>Редактировать?</Target>
+</Unit>
+<Unit>
+<id>61</id>
+<Source>Забыли пароль?</Source>
+<Target>Забыли пароль?</Target>
+</Unit>
+<Unit>
+<id>62</id>
+<Source>Служба поддержки</Source>
+<Target>Служба поддержки</Target>
+</Unit>
+<Unit>
+<id>63</id>
+<Source>Логин, e-mail или телефон</Source>
+<Target>Логин, e-mail или телефон</Target>
+</Unit>
+<Unit>
+<id>64</id>
+<Source>Вход</Source>
+<Target>Вход</Target>
+</Unit>
+</TestDocument>

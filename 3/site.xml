@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations translationLanguage="xx" defaultLanguage="ru" application="mobile" xsi:schemaLocation="http://locale.one.lv/schema/translations translations.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://locale.one.lv/schema/translations">
+  <package name=" one.app.community.dk.blocks.states.common.feeds">
+    <message name="notSupportedFeedType">
+      <default>в разработке на мобильной версии</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="[todo ru one.app.community.dk.blocks.states.user.settings.profile">
+    <message name="day">
+      <default>число</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="37: .dicCrs {background-position:0 -370px !important;}  ">
+    <message name="inviteToGroup">
+      <default>Пригласить в группу</default>
+      <translation>Invite to group</translation>
+    </message>
+  </package>
+  <package name="app.feature.overlays">
+    <message name="already.sent">
+      <default>Кажется, что-то пошло не так. Попробуйте еще раз</default>
+      <translation>Looks like something went wrong. Please try again</translation>
+    </message>
+    <message name="balanceAndPrice.april1">
+      <default>Цена {1} ОК. На счёте: {0} ОК.</default>
+      <translation/>
+    </message>
+    <message name="balanceAndPrice.flowers">
+      <default>Цена {1} ОК. На счёте: {0} ОК.</default>
+      <translation/>
+    </message>
+    <message name="fromFriend.mobile.snowball">
+      <default>друга</default>
+      <translation/>
+    </message>
+    <message name="gived.ice">
+      <default>[gender,switch,1=угостил|2=угостила] [custom,switch,"straw"=клубничным мороженым|"plombir"=сливочным мороженым|"choco"=шоколадным мороженым|"pist"=фисташковым мороженым|"crem"=крем-брюле] [user,args,declension="Accusative"]</default>
+      <translation/>
+    </message>
+    <message name="overlayReceived.snowball">
+      <default>Пропущен:</default>
+      <translation/>
+    </message>
+    <message name="overlays.count">
+      <default>&lt;b&gt;Подарки {0}&lt;/b&gt;</default>
+      <translation/>
+    </message>
+    <message name="price.snowball">
+      <default>Стоимость {0} ОК</default>
+      <translation/>
+    </message>
+    <message name="private.flowers">
+      <default>Цветы от тайного поклонника</default>
+      <translation/>
+    </message>
+    <message name="privateDescr">
+      <default>* Только получатель будет знать, кто осыпал его цветами.</default>
+      <translation/>
+    </message>x
+    <message name="received.flowers">
+      <default>Был[ACT:|а] осыпан[ACT:|а] цветами</default>
+      <translation/>
+    </message>
+    <message name="received.football">
+      <default>пропустил[ACT:|а] гол от</default>
+      <translation/>
+    </message>
+    <message name="received.ice">
+      <default>[gender,switch,1=получил|2=получила] [custom,switch,"straw"=клубничное мороженое|"plombir"=сливочное мороженое|"choco"=шоколадное мороженое|"pist"=фисташковое мороженое|"crem"=крем-брюле] от [user,args,declension="Genitive"]</default>
+      <translation/>
+    </message>
+    <message name="received.kiss">
+      <default>получил[ACT:|а] {0} от</default>
+      <translation/>
+    </message>
+    <message name="received.private.flowers">
+      <default>Был[ACT:|a] осыпан[ACT:|а] цветами тайным поклонником</default>
+      <translation/>
+    </message>
+    <message name="received.private.kiss">
+      <default>получил[ACT:|а] приватный поцелуй</default>
+      <translation/>
+    </message>
+    <message name="received.snowball">
+      <default>Получил[ACT:|а] снежок от</default>
+      <translation/>
+    </message>
+    <message name="received.time.april1">
+      <default>Заляпан {0}</default>
+      <translation/>
+    </message>
+    <message name="remove">
+      <default/>
+      <translation/>
+    </message>
+    <message name="removeOverlay.flowers">
+      <default>Удалить цветок</default>
+      <translation/>
+    </message>
+    <message name="selectFriend.kiss">
+      <default>Кому поцелуй?</default>
+      <translation/>
+    </message>
+    <message name="selectFriend.snowball">
+      <default>Цена 10 ОК. На счёте: {0} ОК</default>
+      <translation/>
+    </message>
+    <message name="send.overlay.footer.desc">
+      <default>Клякса останется на фото друга на 7 дней или пока&lt;br/&gt; друг не удалит её с фотографии.</default>
+      <translation/>
+    </message>
+    <message name="send.overlay.friend.button">
+      <default>Поставить кляксу</default>
+      <translation/>
+    </message>
+    <message name="send.overlay.sent.title.flowers">
+      <default>Вы осыпали цветами друга!</default>
+      <translation/>
+    </message>
+    <message name="send.overlay.sent.title.snowball">
+      <default>Вы бросили снежок в друга!</default>
+      <translation/>
+    </message>
+    <message name="send.presents.splat">
+      <default>Поставить кляксу</default>
+      <translation/>
+    </message>
+    <message name="sent.april1">
+      <default>Заляпал[ACT:|а] фото</default>
+      <translation/>
+    </message>
+    <message name="sent.flowers">
+      <default>Осыпал[ACT:|а] цветами</default>
+      <translation/>
+    </message>
+    <message name="sent.football">
+      <default>забил[ACT:|а] гол</default>
+      <translation/>
+    </message>
+    <message name="sent.kiss">
+      <default>шлёт {0}</default>
+      <translation/>
+    </message>
+    <message name="sent.snowball">
+      <default>Бросил[ACT:|а] снежок в</default>
+      <translation/>
+    </message>
+    <message name="toFriend.mobile.april1">
+      <default>друга</default>
+      <translation/>
+    </message>
+    <message name="toFriend.mobile.flowers">
+      <default>друга</default>
+      <translation/>
+    </message>
+    <message name="type_priv">
+      <default>приватный</default>
+      <translation/>
+    </message>
+    <message name="type_pub">
+      <default>публичный</default>
+      <translation/>
+    </message>
+    <message name="unavailable.overlay">
+      <default>К сожалению, промо-акция не доступна.</default>
+      <translation/>
+    </message>
+    <message name="valentineGuessed2">
+      <default>угадала, что валентинка – от вас!</default>
+      <translation/>
+    </message>
+    <message name="сustom.name.herbera">
+      <default>Гербер</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="app.feature.promo.victory.day">
+    <message name="link">
+      <default>Георгиевская ленточка</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="app.promo.api">
+    <message name="Chamomile_link_in_tooltip">
+      <default>С Днём семьи!</default>
+      <translation/>
+    </message>
+    <message name="VictoryDay_link_in_tooltip">
+      <default>Сделать комплимент</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="data-pane.status-source">
+    <message name="source_1_5">
+      <default>из ICQ Одноклассники</default>
+      <translation>like</translation>
+    </message>
+  </package>
+  <package name="detailedNotifications">
+    <message name="notificationsDescr">
+      <default>- Подробные уведомления могут содержать такую информацию, как имя отправителя, текст сообщения и так далее.&lt;br&gt;- Простые уведомления информируют пользователя о новом событии без каких-либо подробностей.</default>
+      <translation/>
+    </message>
+    <message name="notificationsTitle">
+      <default>Мобильные push-уведомления</default>
+      <translation/>
+    </message>
+  </package>
+  <package name="ne.app.community.dk.blocks.states.common.feeds">
+    <message name="CHANGE_USER_STATUS1">
+      <default>Установил статус:</default>
+      <translation/>
+    </message>
+    <message name="cm_Profile">
+      <default>Редактировать личные данные</default>
+      <translation/>
+    </message>
+    <message name="errors.status.maxLength">
+      <default>Заметка слишком длинная</default>
+      <translation/>
+    </message>
+    <message name="mr_Dlgs">
+      <default>Сообщения</default>
+      <translation/>
+    </message>
+    <message name="mr_Dscs">
+      <default>Обсуждения</default>
+      <translation/>
+    </message>
+    <message name="mr_friendProfile">
+      <default>Профиль</default>
+      <translation/>
+    </message>
+    <message name="mr_Friends">
+      <default>Друзья</default>
+      <translation/>
+    </message>
+    <message name="mr_FriendsTotal">
+      <default>Друзья&lt;br/&gt;&lt;span class="clgry"&gt;{1}&lt;/span&gt;</default>
+      <translation/>
+    </message>
+  </package>
+</translations>

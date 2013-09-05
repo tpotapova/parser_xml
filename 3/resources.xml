@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestDocument>
+<Unit>
+<id>1</id>
+<Source>в разработке на мобильной версии</Source>
+<Target>в разработке на мобильной версии</Target>
+</Unit>
+<Unit>
+<id>2</id>
+<Source>число</Source>
+<Target>число</Target>
+</Unit>
+<Unit>
+<id>3</id>
+<Source>Пригласить в группу</Source>
+<Target>Пригласить в группу</Target>
+</Unit>
+<Unit>
+<id>4</id>
+<Source>Кажется, что-то пошло не так. Попробуйте еще раз</Source>
+<Target>Кажется, что-то пошло не так. Попробуйте еще раз</Target>
+</Unit>
+<Unit>
+<id>5</id>
+<Source>Цена <Non>{1}</Non> ОК. На счёте: <Non>{0}</Non> ОК.</Source>
+<Target>Цена <Non>{1}</Non> ОК. На счёте: <Non>{0}</Non> ОК.</Target>
+</Unit>
+<Unit>
+<id>6</id>
+<Source>Цена <Non>{1}</Non> ОК. На счёте: <Non>{0}</Non> ОК.</Source>
+<Target>Цена <Non>{1}</Non> ОК. На счёте: <Non>{0}</Non> ОК.</Target>
+</Unit>
+<Unit>
+<id>7</id>
+<Source>друга</Source>
+<Target>друга</Target>
+</Unit>
+<Unit>
+<id>8</id>
+<Source>[gender,switch,1=угостил|2=угостила] [custom,switch,"straw"=клубничным мороженым|"plombir"=сливочным мороженым|"choco"=шоколадным мороженым|"pist"=фисташковым мороженым|"crem"=крем-брюле] [user,args,declension="Accusative"]</Source>
+<Target>[gender,switch,1=угостил|2=угостила] [custom,switch,"straw"=клубничным мороженым|"plombir"=сливочным мороженым|"choco"=шоколадным мороженым|"pist"=фисташковым мороженым|"crem"=крем-брюле] [user,args,declension="Accusative"]</Target>
+</Unit>
+<Unit>
+<id>9</id>
+<Source>Пропущен:</Source>
+<Target>Пропущен:</Target>
+</Unit>
+<Unit>
+<id>10</id>
+<Source><b>Подарки <Non>{0}</Non></b></Source>
+<Target><b>Подарки <Non>{0}</Non></b></Target>
+</Unit>
+<Unit>
+<id>11</id>
+<Source>Стоимость <Non>{0}</Non> ОК</Source>
+<Target>Стоимость <Non>{0}</Non> ОК</Target>
+</Unit>
+<Unit>
+<id>12</id>
+<Source>Цветы от тайного поклонника</Source>
+<Target>Цветы от тайного поклонника</Target>
+</Unit>
+<Unit>
+<id>13</id>
+<Source>* Только получатель будет знать, кто осыпал его цветами.</Source>
+<Target>* Только получатель будет знать, кто осыпал его цветами.</Target>
+</Unit>
+<Unit>
+<id>14</id>
+<Source>Был[ACT:|а] осыпан[ACT:|а] цветами</Source>
+<Target>Был[ACT:|а] осыпан[ACT:|а] цветами</Target>
+</Unit>
+<Unit>
+<id>15</id>
+<Source>пропустил[ACT:|а] гол от</Source>
+<Target>пропустил[ACT:|а] гол от</Target>
+</Unit>
+<Unit>
+<id>16</id>
+<Source>[gender,switch,1=получил|2=получила] [custom,switch,"straw"=клубничное мороженое|"plombir"=сливочное мороженое|"choco"=шоколадное мороженое|"pist"=фисташковое мороженое|"crem"=крем-брюле] от [user,args,declension="Genitive"]</Source>
+<Target>[gender,switch,1=получил|2=получила] [custom,switch,"straw"=клубничное мороженое|"plombir"=сливочное мороженое|"choco"=шоколадное мороженое|"pist"=фисташковое мороженое|"crem"=крем-брюле] от [user,args,declension="Genitive"]</Target>
+</Unit>
+<Unit>
+<id>17</id>
+<Source>получил[ACT:|а] <Non>{0}</Non> от</Source>
+<Target>получил[ACT:|а] <Non>{0}</Non> от</Target>
+</Unit>
+<Unit>
+<id>18</id>
+<Source>Был[ACT:|a] осыпан[ACT:|а] цветами тайным поклонником</Source>
+<Target>Был[ACT:|a] осыпан[ACT:|а] цветами тайным поклонником</Target>
+</Unit>
+<Unit>
+<id>19</id>
+<Source>получил[ACT:|а] приватный поцелуй</Source>
+<Target>получил[ACT:|а] приватный поцелуй</Target>
+</Unit>
+<Unit>
+<id>20</id>
+<Source>Получил[ACT:|а] снежок от</Source>
+<Target>Получил[ACT:|а] снежок от</Target>
+</Unit>
+<Unit>
+<id>21</id>
+<Source>Заляпан <Non>{0}</Non></Source>
+<Target>Заляпан <Non>{0}</Non></Target>
+</Unit>
+<Unit>
+<id>22</id>
+<Source>Удалить цветок</Source>
+<Target>Удалить цветок</Target>
+</Unit>
+<Unit>
+<id>23</id>
+<Source>Кому поцелуй?</Source>
+<Target>Кому поцелуй?</Target>
+</Unit>
+<Unit>
+<id>24</id>
+<Source>Цена 10 ОК. На счёте: <Non>{0}</Non> ОК</Source>
+<Target>Цена 10 ОК. На счёте: <Non>{0}</Non> ОК</Target>
+</Unit>
+<Unit>
+<id>25</id>
+<Source>Клякса останется на фото друга на 7 дней или пока<br/> друг не удалит её с фотографии.</Source>
+<Target>Клякса останется на фото друга на 7 дней или пока<br/> друг не удалит её с фотографии.</Target>
+</Unit>
+<Unit>
+<id>26</id>
+<Source>Поставить кляксу</Source>
+<Target>Поставить кляксу</Target>
+</Unit>
+<Unit>
+<id>27</id>
+<Source>Вы осыпали цветами друга!</Source>
+<Target>Вы осыпали цветами друга!</Target>
+</Unit>
+<Unit>
+<id>28</id>
+<Source>Вы бросили снежок в друга!</Source>
+<Target>Вы бросили снежок в друга!</Target>
+</Unit>
+<Unit>
+<id>29</id>
+<Source>Поставить кляксу</Source>
+<Target>Поставить кляксу</Target>
+</Unit>
+<Unit>
+<id>30</id>
+<Source>Заляпал[ACT:|а] фото</Source>
+<Target>Заляпал[ACT:|а] фото</Target>
+</Unit>
+<Unit>
+<id>31</id>
+<Source>Осыпал[ACT:|а] цветами</Source>
+<Target>Осыпал[ACT:|а] цветами</Target>
+</Unit>
+<Unit>
+<id>32</id>
+<Source>забил[ACT:|а] гол</Source>
+<Target>забил[ACT:|а] гол</Target>
+</Unit>
+<Unit>
+<id>33</id>
+<Source>шлёт <Non>{0}</Non></Source>
+<Target>шлёт <Non>{0}</Non></Target>
+</Unit>
+<Unit>
+<id>34</id>
+<Source>Бросил[ACT:|а] снежок в</Source>
+<Target>Бросил[ACT:|а] снежок в</Target>
+</Unit>
+<Unit>
+<id>35</id>
+<Source>друга</Source>
+<Target>друга</Target>
+</Unit>
+<Unit>
+<id>36</id>
+<Source>друга</Source>
+<Target>друга</Target>
+</Unit>
+<Unit>
+<id>37</id>
+<Source>приватный</Source>
+<Target>приватный</Target>
+</Unit>
+<Unit>
+<id>38</id>
+<Source>публичный</Source>
+<Target>публичный</Target>
+</Unit>
+<Unit>
+<id>39</id>
+<Source>К сожалению, промо-акция не доступна.</Source>
+<Target>К сожалению, промо-акция не доступна.</Target>
+</Unit>
+<Unit>
+<id>40</id>
+<Source>угадала, что валентинка – от вас!</Source>
+<Target>угадала, что валентинка – от вас!</Target>
+</Unit>
+<Unit>
+<id>41</id>
+<Source>Гербер</Source>
+<Target>Гербер</Target>
+</Unit>
+<Unit>
+<id>42</id>
+<Source>Георгиевская ленточка</Source>
+<Target>Георгиевская ленточка</Target>
+</Unit>
+<Unit>
+<id>43</id>
+<Source>С Днём семьи!</Source>
+<Target>С Днём семьи!</Target>
+</Unit>
+<Unit>
+<id>44</id>
+<Source>Сделать комплимент</Source>
+<Target>Сделать комплимент</Target>
+</Unit>
+<Unit>
+<id>45</id>
+<Source>из ICQ Одноклассники</Source>
+<Target>из ICQ Одноклассники</Target>
+</Unit>
+<Unit>
+<id>46</id>
+<Source>- Подробные уведомления могут содержать такую информацию, как имя отправителя, текст сообщения и так далее.<br>- Простые уведомления информируют пользователя о новом событии без каких-либо подробностей.</Source>
+<Target>- Подробные уведомления могут содержать такую информацию, как имя отправителя, текст сообщения и так далее.<br>- Простые уведомления информируют пользователя о новом событии без каких-либо подробностей.</Target>
+</Unit>
+<Unit>
+<id>47</id>
+<Source>Мобильные push-уведомления</Source>
+<Target>Мобильные push-уведомления</Target>
+</Unit>
+<Unit>
+<id>48</id>
+<Source>Установил статус:</Source>
+<Target>Установил статус:</Target>
+</Unit>
+<Unit>
+<id>49</id>
+<Source>Редактировать личные данные</Source>
+<Target>Редактировать личные данные</Target>
+</Unit>
+<Unit>
+<id>50</id>
+<Source>Заметка слишком длинная</Source>
+<Target>Заметка слишком длинная</Target>
+</Unit>
+<Unit>
+<id>51</id>
+<Source>Сообщения</Source>
+<Target>Сообщения</Target>
+</Unit>
+<Unit>
+<id>52</id>
+<Source>Обсуждения</Source>
+<Target>Обсуждения</Target>
+</Unit>
+<Unit>
+<id>53</id>
+<Source>Профиль</Source>
+<Target>Профиль</Target>
+</Unit>
+<Unit>
+<id>54</id>
+<Source>Друзья</Source>
+<Target>Друзья</Target>
+</Unit>
+<Unit>
+<id>55</id>
+<Source>Друзья<br/><span class="clgry"><Non>{1}</Non></span></Source>
+<Target>Друзья<br/><span class="clgry"><Non>{1}</Non></span></Target>
+</Unit>
+</TestDocument>
